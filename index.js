@@ -73,7 +73,7 @@ function ads() {
   console.log("Made by ZaWarudo1")
   console.log("Update brought to")
   console.log("     you by:")
-  console.log("  Casual Frosty")
+  console.log("  Coderandhacker69")
   console.log("==================\n")
 }
 ads()
